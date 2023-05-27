@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">API Connect</string>
+    <string name="btc">BTC:</string>
+    <string name="temp">Temp</string>
+    <string name="ada">ADA:</string>
+    <string name="eth">ETH:</string>
+    <string name="reload">Reload</string>
+</resources>
